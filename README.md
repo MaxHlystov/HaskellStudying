@@ -1,2 +1,2 @@
 # HaskellStudying
-Haskell tasks from Moscow programmers club course
+Haskell tasks from Moscow programmers' club course.
